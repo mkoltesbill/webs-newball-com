@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mkoltesbill.github.io/webs-newball-com/sitemap.xml
